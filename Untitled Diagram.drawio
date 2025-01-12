@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:129.0) Gecko/20100101 Firefox/129.0" version="26.0.5">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
-    <mxGraphModel dx="1678" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1678" dy="947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1324,7 +1324,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wCWwweQuAuPGpYM_E0Gj-586" value="&lt;div&gt;stream2 mapper&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=#ADADFF;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="wCWwweQuAuPGpYM_E0Gj-586" value="&lt;div&gt;stream2 mapper&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1026.5" y="592" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wCWwweQuAuPGpYM_E0Gj-594" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontSize=7;" vertex="1" parent="1">
