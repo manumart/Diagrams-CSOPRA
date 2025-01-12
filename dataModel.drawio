@@ -195,6 +195,9 @@
         <mxCell id="esfX10ickzwYWV4Qpk32-87" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#3B12FF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.iot_analytics_channel;" vertex="1" parent="esfX10ickzwYWV4Qpk32-78">
           <mxGeometry x="-30" y="810" width="65" height="78" as="geometry" />
         </mxCell>
+        <mxCell id="esfX10ickzwYWV4Qpk32-88" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=moz-extension://225dcced-9223-4928-813d-0255079a57a7/icons/icon.png;" vertex="1" parent="1">
+          <mxGeometry x="600" y="310" width="48" height="48" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
