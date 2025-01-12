@@ -1866,7 +1866,7 @@
         <mxCell id="wCWwweQuAuPGpYM_E0Gj-684" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="wCWwweQuAuPGpYM_E0Gj-685">
           <mxGeometry x="20" width="10" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="wCWwweQuAuPGpYM_E0Gj-703" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="wCWwweQuAuPGpYM_E0Gj-703" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#B3B3B3;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="433.29" as="sourcePoint" />
             <mxPoint x="1220" y="433.29" as="targetPoint" />
@@ -1902,6 +1902,9 @@
             <mxPoint x="780" y="620" as="sourcePoint" />
             <mxPoint x="700" y="80" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="wCWwweQuAuPGpYM_E0Gj-714" value="&lt;i&gt;Ontology&lt;/i&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontColor=#170DFF;" vertex="1" parent="1">
+          <mxGeometry x="719" y="108" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
